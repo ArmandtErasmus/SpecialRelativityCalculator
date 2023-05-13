@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[57]:
-
-
 import tkinter as tk
 from math import sqrt
 
